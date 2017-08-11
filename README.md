@@ -1,1 +1,1 @@
-"# mushi-collection" 
+# Mushi Collection

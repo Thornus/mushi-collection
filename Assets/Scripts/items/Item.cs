@@ -16,15 +16,4 @@ public class Item {
 		this.username = username;
 	}
 
-	/*int setType(string typeName) {
-		switch (typeName.ToLower()) {
-			case "insect":
-				return 1;
-			case "material":
-				return 2;
-			default:
-				return 0;
-		}
-	}*/
-
 }

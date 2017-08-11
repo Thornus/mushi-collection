@@ -1,0 +1,2550 @@
+fileFormatVersion: 2
+guid: 3c60a48e0dd888b47ba063885235b17b
+timeCreated: 1489695380
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: idleUpwardSpriteSheet_0
+    21300002: idleUpwardSpriteSheet_1
+    21300004: idleUpwardSpriteSheet_2
+    21300006: idleUpwardSpriteSheet_3
+    21300008: idleUpwardSpriteSheet_4
+    21300010: idleUpwardSpriteSheet_5
+    21300012: idleUpwardSpriteSheet_6
+    21300014: idleUpwardSpriteSheet_7
+    21300016: idleUpwardSpriteSheet_8
+    21300018: idleUpwardSpriteSheet_9
+    21300020: idleUpwardSpriteSheet_10
+    21300022: idleUpwardSpriteSheet_11
+    21300024: idleUpwardSpriteSheet_12
+    21300026: idleUpwardSpriteSheet_13
+    21300028: idleUpwardSpriteSheet_14
+    21300030: idleUpwardSpriteSheet_15
+    21300032: idleUpwardSpriteSheet_16
+    21300034: idleUpwardSpriteSheet_17
+    21300036: idleUpwardSpriteSheet_18
+    21300038: idleUpwardSpriteSheet_19
+    21300040: idleUpwardSpriteSheet_20
+    21300042: idleUpwardSpriteSheet_21
+    21300044: idleUpwardSpriteSheet_22
+    21300046: idleUpwardSpriteSheet_23
+    21300048: idleUpwardSpriteSheet_24
+    21300050: idleUpwardSpriteSheet_25
+    21300052: idleUpwardSpriteSheet_26
+    21300054: idleUpwardSpriteSheet_27
+    21300056: idleUpwardSpriteSheet_28
+    21300058: idleUpwardSpriteSheet_29
+    21300060: idleUpwardSpriteSheet_30
+    21300062: idleUpwardSpriteSheet_31
+    21300064: idleUpwardSpriteSheet_32
+    21300066: idleUpwardSpriteSheet_33
+    21300068: idleUpwardSpriteSheet_34
+    21300070: idleUpwardSpriteSheet_35
+    21300072: idleUpwardSpriteSheet_36
+    21300074: idleUpwardSpriteSheet_37
+    21300076: idleUpwardSpriteSheet_38
+    21300078: idleUpwardSpriteSheet_39
+    21300080: idleUpwardSpriteSheet_40
+    21300082: idleUpwardSpriteSheet_41
+    21300084: idleUpwardSpriteSheet_42
+    21300086: idleUpwardSpriteSheet_43
+    21300088: idleUpwardSpriteSheet_44
+    21300090: idleUpwardSpriteSheet_45
+    21300092: idleUpwardSpriteSheet_46
+    21300094: idleUpwardSpriteSheet_47
+    21300096: idleUpwardSpriteSheet_48
+    21300098: idleUpwardSpriteSheet_49
+    21300100: idleUpwardSpriteSheet_50
+    21300102: idleUpwardSpriteSheet_51
+    21300104: idleUpwardSpriteSheet_52
+    21300106: idleUpwardSpriteSheet_53
+    21300108: idleUpwardSpriteSheet_54
+    21300110: idleUpwardSpriteSheet_55
+    21300112: idleUpwardSpriteSheet_56
+    21300114: idleUpwardSpriteSheet_57
+    21300116: idleUpwardSpriteSheet_58
+    21300118: idleUpwardSpriteSheet_59
+    21300120: idleUpwardSpriteSheet_60
+    21300122: idleUpwardSpriteSheet_61
+    21300124: idleUpwardSpriteSheet_62
+    21300126: idleUpwardSpriteSheet_63
+    21300128: idleUpwardSpriteSheet_64
+    21300130: idleUpwardSpriteSheet_65
+    21300132: idleUpwardSpriteSheet_66
+    21300134: idleUpwardSpriteSheet_67
+    21300136: idleUpwardSpriteSheet_68
+    21300138: idleUpwardSpriteSheet_69
+    21300140: idleUpwardSpriteSheet_70
+    21300142: idleUpwardSpriteSheet_71
+    21300144: idleUpwardSpriteSheet_72
+    21300146: idleUpwardSpriteSheet_73
+    21300148: idleUpwardSpriteSheet_74
+    21300150: idleUpwardSpriteSheet_75
+    21300152: idleUpwardSpriteSheet_76
+    21300154: idleUpwardSpriteSheet_77
+    21300156: idleUpwardSpriteSheet_78
+    21300158: idleUpwardSpriteSheet_79
+    21300160: idleUpwardSpriteSheet_80
+    21300162: idleUpwardSpriteSheet_81
+    21300164: idleUpwardSpriteSheet_82
+    21300166: idleUpwardSpriteSheet_83
+    21300168: idleUpwardSpriteSheet_84
+    21300170: idleUpwardSpriteSheet_85
+    21300172: idleUpwardSpriteSheet_86
+    21300174: idleUpwardSpriteSheet_87
+    21300176: idleUpwardSpriteSheet_88
+    21300178: idleUpwardSpriteSheet_89
+    21300180: idleUpwardSpriteSheet_90
+    21300182: idleUpwardSpriteSheet_91
+    21300184: idleUpwardSpriteSheet_92
+    21300186: idleUpwardSpriteSheet_93
+    21300188: idleUpwardSpriteSheet_94
+    21300190: idleUpwardSpriteSheet_95
+    21300192: idleUpwardSpriteSheet_96
+    21300194: idleUpwardSpriteSheet_97
+    21300196: idleUpwardSpriteSheet_98
+    21300198: idleUpwardSpriteSheet_99
+    21300200: idleUpwardSpriteSheet_100
+    21300202: idleUpwardSpriteSheet_101
+    21300204: idleUpwardSpriteSheet_102
+    21300206: idleUpwardSpriteSheet_103
+    21300208: idleUpwardSpriteSheet_104
+    21300210: idleUpwardSpriteSheet_105
+    21300212: idleUpwardSpriteSheet_106
+    21300214: idleUpwardSpriteSheet_107
+    21300216: idleUpwardSpriteSheet_108
+    21300218: idleUpwardSpriteSheet_109
+    21300220: idleUpwardSpriteSheet_110
+    21300222: idleUpwardSpriteSheet_111
+    21300224: idleUpwardSpriteSheet_112
+    21300226: idleUpwardSpriteSheet_113
+    21300228: idleUpwardSpriteSheet_114
+    21300230: idleUpwardSpriteSheet_115
+    21300232: idleUpwardSpriteSheet_116
+    21300234: idleUpwardSpriteSheet_117
+    21300236: idleUpwardSpriteSheet_118
+    21300238: idleUpwardSpriteSheet_119
+    21300240: idleUpwardSpriteSheet_120
+    21300242: idleUpwardSpriteSheet_121
+    21300244: idleUpwardSpriteSheet_122
+    21300246: idleUpwardSpriteSheet_123
+    21300248: idleUpwardSpriteSheet_124
+    21300250: idleUpwardSpriteSheet_125
+    21300252: idleUpwardSpriteSheet_126
+    21300254: idleUpwardSpriteSheet_127
+    21300256: idleUpwardSpriteSheet_128
+    21300258: idleUpwardSpriteSheet_129
+    21300260: idleUpwardSpriteSheet_130
+    21300262: idleUpwardSpriteSheet_131
+    21300264: idleUpwardSpriteSheet_132
+    21300266: idleUpwardSpriteSheet_133
+    21300268: idleUpwardSpriteSheet_134
+    21300270: idleUpwardSpriteSheet_135
+    21300272: idleUpwardSpriteSheet_136
+    21300274: idleUpwardSpriteSheet_137
+    21300276: idleUpwardSpriteSheet_138
+    21300278: idleUpwardSpriteSheet_139
+    21300280: idleUpwardSpriteSheet_140
+    21300282: idleUpwardSpriteSheet_141
+    21300284: idleUpwardSpriteSheet_142
+    21300286: idleUpwardSpriteSheet_143
+    21300288: idleUpwardSpriteSheet_144
+    21300290: idleUpwardSpriteSheet_145
+    21300292: idleUpwardSpriteSheet_146
+    21300294: idleUpwardSpriteSheet_147
+    21300296: idleUpwardSpriteSheet_148
+    21300298: idleUpwardSpriteSheet_149
+    21300300: idleUpwardSpriteSheet_150
+    21300302: idleUpwardSpriteSheet_151
+    21300304: idleUpwardSpriteSheet_152
+    21300306: idleUpwardSpriteSheet_153
+    21300308: idleUpwardSpriteSheet_154
+    21300310: idleUpwardSpriteSheet_155
+    21300312: idleUpwardSpriteSheet_156
+    21300314: idleUpwardSpriteSheet_157
+    21300316: idleUpwardSpriteSheet_158
+    21300318: idleUpwardSpriteSheet_159
+    21300320: idleUpwardSpriteSheet_160
+    21300322: idleUpwardSpriteSheet_161
+    21300324: idleUpwardSpriteSheet_162
+    21300326: idleUpwardSpriteSheet_163
+    21300328: idleUpwardSpriteSheet_164
+    21300330: idleUpwardSpriteSheet_165
+    21300332: idleUpwardSpriteSheet_166
+    21300334: idleUpwardSpriteSheet_167
+    21300336: idleUpwardSpriteSheet_168
+    21300338: idleUpwardSpriteSheet_169
+    21300340: idleUpwardSpriteSheet_170
+    21300342: idleUpwardSpriteSheet_171
+    21300344: idleUpwardSpriteSheet_172
+    21300346: idleUpwardSpriteSheet_173
+    21300348: idleUpwardSpriteSheet_174
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 150
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1920
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1920
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1920
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1920
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1920
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1920
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1920
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1920
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1920
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1920
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1792
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1792
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1792
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1792
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1792
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1792
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1792
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1792
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1792
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1792
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1664
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1664
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1664
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1664
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1664
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1664
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1664
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1664
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1664
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1664
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1536
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1536
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1536
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1536
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1536
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1536
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1536
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1536
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1536
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1536
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1408
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1408
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1408
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1408
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1408
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1408
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1408
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1408
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1408
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1408
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1280
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1280
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1280
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1280
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1280
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1280
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1280
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1280
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1280
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1280
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1152
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1152
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1152
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1152
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1152
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1152
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1152
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1152
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1152
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1152
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1024
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1024
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1024
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1024
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1024
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1024
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1024
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1024
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1024
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1024
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 896
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 896
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 896
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 896
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 896
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 896
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 896
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 896
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 896
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 896
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 768
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 768
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 768
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 768
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 768
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 768
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 768
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 768
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 768
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 768
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 640
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 640
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 640
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 640
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 640
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 640
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 640
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 640
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 640
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 640
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_122
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 512
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_123
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 512
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_124
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 512
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_125
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 512
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_126
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 512
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_127
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 512
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_128
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 512
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_129
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 512
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_130
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 512
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_131
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 512
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_133
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 384
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_134
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 384
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_135
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 384
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_136
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 384
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_137
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 384
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_138
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 384
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_139
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 384
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_140
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 384
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_141
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 384
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_142
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 384
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_144
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 256
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_145
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 256
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_146
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 256
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_147
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 256
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_148
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 256
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_149
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 256
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_150
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 256
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_151
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 256
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_152
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 256
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_153
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 256
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_155
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 128
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_156
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 128
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_157
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 128
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_158
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 128
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_159
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 128
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_160
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 128
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_161
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 128
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_162
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 128
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_163
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 128
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_164
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 128
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_166
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_167
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_168
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 0
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_169
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_170
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_171
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 0
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_172
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 0
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_173
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 0
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleUpwardSpriteSheet_174
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 0
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

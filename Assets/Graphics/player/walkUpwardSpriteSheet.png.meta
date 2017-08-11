@@ -1,0 +1,1150 @@
+fileFormatVersion: 2
+guid: 237c4382ad795ef40acb4631a64a75be
+timeCreated: 1489695424
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: walkUpwardSpriteSheet_0
+    21300002: walkUpwardSpriteSheet_1
+    21300004: walkUpwardSpriteSheet_2
+    21300006: walkUpwardSpriteSheet_3
+    21300008: walkUpwardSpriteSheet_4
+    21300010: walkUpwardSpriteSheet_5
+    21300012: walkUpwardSpriteSheet_6
+    21300014: walkUpwardSpriteSheet_7
+    21300016: walkUpwardSpriteSheet_8
+    21300018: walkUpwardSpriteSheet_9
+    21300020: walkUpwardSpriteSheet_10
+    21300022: walkUpwardSpriteSheet_11
+    21300024: walkUpwardSpriteSheet_12
+    21300026: walkUpwardSpriteSheet_13
+    21300028: walkUpwardSpriteSheet_14
+    21300030: walkUpwardSpriteSheet_15
+    21300032: walkUpwardSpriteSheet_16
+    21300034: walkUpwardSpriteSheet_17
+    21300036: walkUpwardSpriteSheet_18
+    21300038: walkUpwardSpriteSheet_19
+    21300040: walkUpwardSpriteSheet_20
+    21300042: walkUpwardSpriteSheet_21
+    21300044: walkUpwardSpriteSheet_22
+    21300046: walkUpwardSpriteSheet_23
+    21300048: walkUpwardSpriteSheet_24
+    21300050: walkUpwardSpriteSheet_25
+    21300052: walkUpwardSpriteSheet_26
+    21300054: walkUpwardSpriteSheet_27
+    21300056: walkUpwardSpriteSheet_28
+    21300058: walkUpwardSpriteSheet_29
+    21300060: walkUpwardSpriteSheet_30
+    21300062: walkUpwardSpriteSheet_31
+    21300064: walkUpwardSpriteSheet_32
+    21300066: walkUpwardSpriteSheet_33
+    21300068: walkUpwardSpriteSheet_34
+    21300070: walkUpwardSpriteSheet_35
+    21300072: walkUpwardSpriteSheet_36
+    21300074: walkUpwardSpriteSheet_37
+    21300076: walkUpwardSpriteSheet_38
+    21300078: walkUpwardSpriteSheet_39
+    21300080: walkUpwardSpriteSheet_40
+    21300082: walkUpwardSpriteSheet_41
+    21300084: walkUpwardSpriteSheet_42
+    21300086: walkUpwardSpriteSheet_43
+    21300088: walkUpwardSpriteSheet_44
+    21300090: walkUpwardSpriteSheet_45
+    21300092: walkUpwardSpriteSheet_46
+    21300094: walkUpwardSpriteSheet_47
+    21300096: walkUpwardSpriteSheet_48
+    21300098: walkUpwardSpriteSheet_49
+    21300100: walkUpwardSpriteSheet_50
+    21300102: walkUpwardSpriteSheet_51
+    21300104: walkUpwardSpriteSheet_52
+    21300106: walkUpwardSpriteSheet_53
+    21300108: walkUpwardSpriteSheet_54
+    21300110: walkUpwardSpriteSheet_55
+    21300112: walkUpwardSpriteSheet_56
+    21300114: walkUpwardSpriteSheet_57
+    21300116: walkUpwardSpriteSheet_58
+    21300118: walkUpwardSpriteSheet_59
+    21300120: walkUpwardSpriteSheet_60
+    21300122: walkUpwardSpriteSheet_61
+    21300124: walkUpwardSpriteSheet_62
+    21300126: walkUpwardSpriteSheet_63
+    21300128: walkUpwardSpriteSheet_64
+    21300130: walkUpwardSpriteSheet_65
+    21300132: walkUpwardSpriteSheet_66
+    21300134: walkUpwardSpriteSheet_67
+    21300136: walkUpwardSpriteSheet_68
+    21300138: walkUpwardSpriteSheet_69
+    21300140: walkUpwardSpriteSheet_70
+    21300142: walkUpwardSpriteSheet_71
+    21300144: walkUpwardSpriteSheet_72
+    21300146: walkUpwardSpriteSheet_73
+    21300148: walkUpwardSpriteSheet_74
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 150
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1792
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1792
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1792
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1792
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1664
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1664
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1664
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1664
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1536
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1536
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1536
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1536
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1408
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1408
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1408
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1408
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1280
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1280
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1280
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1280
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1152
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1152
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1152
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1152
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1024
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1024
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1024
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1024
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 896
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 896
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 896
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 896
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 768
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 768
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 768
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 768
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 640
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 640
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 640
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 640
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 512
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 512
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 512
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 512
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 384
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 384
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 384
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 256
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 256
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 256
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 128
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 128
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 128
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walkUpwardSpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

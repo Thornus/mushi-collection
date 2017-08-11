@@ -1,0 +1,930 @@
+fileFormatVersion: 2
+guid: 9a759433f3b6a35448d2bb364c44c6bd
+timeCreated: 1492465899
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: transparent-bg-tiles_0
+    21300002: transparent-bg-tiles_1
+    21300004: inn
+    21300006: vegetable
+    21300008: garden
+    21300010: rock
+    21300012: transparent-bg-tiles_6
+    21300014: road0
+    21300016: transparent-bg-tiles_8
+    21300018: transparent-bg-tiles_9
+    21300020: transparent-bg-tiles_10
+    21300022: water0
+    21300024: transparent-bg-tiles_12
+    21300026: chest
+    21300028: transparent-bg-tiles_14
+    21300030: transparent-bg-tiles_15
+    21300032: transparent-bg-tiles_16
+    21300034: transparent-bg-tiles_17
+    21300036: transparent-bg-tiles_18
+    21300038: transparent-bg-tiles_19
+    21300040: transparent-bg-tiles_20
+    21300042: transparent-bg-tiles_21
+    21300044: transparent-bg-tiles_22
+    21300046: transparent-bg-tiles_23
+    21300048: transparent-bg-tiles_24
+    21300050: transparent-bg-tiles_25
+    21300052: transparent-bg-tiles_26
+    21300054: transparent-bg-tiles_27
+    21300056: transparent-bg-tiles_28
+    21300058: transparent-bg-tiles_29
+    21300060: transparent-bg-tiles_30
+    21300062: transparent-bg-tiles_31
+    21300064: transparent-bg-tiles_32
+    21300066: transparent-bg-tiles_33
+    21300068: transparent-bg-tiles_34
+    21300070: transparent-bg-tiles_35
+    21300072: transparent-bg-tiles_36
+    21300074: transparent-bg-tiles_37
+    21300076: transparent-bg-tiles_38
+    21300078: transparent-bg-tiles_39
+    21300080: transparent-bg-tiles_40
+    21300082: transparent-bg-tiles_41
+    21300084: transparent-bg-tiles_42
+    21300086: transparent-bg-tiles_43
+    21300088: transparent-bg-tiles_44
+    21300090: transparent-bg-tiles_45
+    21300092: transparent-bg-tiles_46
+    21300094: transparent-bg-tiles_47
+    21300096: transparent-bg-tiles_48
+    21300098: transparent-bg-tiles_49
+    21300100: transparent-bg-tiles_50
+    21300102: transparent-bg-tiles_51
+    21300104: transparent-bg-tiles_52
+    21300106: transparent-bg-tiles_53
+    21300108: transparent-bg-tiles_54
+    21300110: transparent-bg-tiles_55
+    21300112: transparent-bg-tiles_56
+    21300114: transparent-bg-tiles_57
+    21300116: transparent-bg-tiles_58
+    21300118: transparent-bg-tiles_59
+    21300120: transparent-bg-tiles_60
+    21300122: transparent-bg-tiles_61
+    21300124: transparent-bg-tiles_62
+    21300126: transparent-bg-tiles_63
+    21300128: transparent-bg-tiles_64
+    21300130: transparent-bg-tiles_65
+    21300132: transparent-bg-tiles_66
+    21300134: transparent-bg-tiles_67
+    21300136: transparent-bg-tiles_68
+    21300138: transparent-bg-tiles_69
+    21300140: transparent-bg-tiles_70
+    21300142: transparent-bg-tiles_71
+    21300144: transparent-bg-tiles_72
+    21300146: transparent-bg-tiles_73
+    21300148: transparent-bg-tiles_74
+    21300150: transparent-bg-tiles_75
+    21300152: transparent-bg-tiles_76
+    21300154: transparent-bg-tiles_77
+    21300156: transparent-bg-tiles_78
+    21300158: transparent-bg-tiles_79
+    21300160: transparent-bg-tiles_80
+    21300162: transparent-bg-tiles_81
+    21300164: transparent-bg-tiles_82
+    21300166: transparent-bg-tiles_83
+    21300168: transparent-bg-tiles_84
+    21300170: transparent-bg-tiles_85
+    21300172: transparent-bg-tiles_86
+    21300174: transparent-bg-tiles_87
+    21300176: transparent-bg-tiles_88
+    21300178: transparent-bg-tiles_89
+    21300180: transparent-bg-tiles_90
+    21300182: transparent-bg-tiles_91
+    21300184: transparent-bg-tiles_92
+    21300186: transparent-bg-tiles_93
+    21300188: transparent-bg-tiles_94
+    21300190: transparent-bg-tiles_95
+    21300192: transparent-bg-tiles_96
+    21300194: transparent-bg-tiles_97
+    21300196: transparent-bg-tiles_98
+    21300198: transparent-bg-tiles_99
+    21300200: transparent-bg-tiles_100
+    21300202: transparent-bg-tiles_101
+    21300204: transparent-bg-tiles_102
+    21300206: transparent-bg-tiles_103
+    21300208: transparent-bg-tiles_104
+    21300210: transparent-bg-tiles_105
+    21300212: transparent-bg-tiles_106
+    21300214: transparent-bg-tiles_107
+    21300216: transparent-bg-tiles_108
+    21300218: transparent-bg-tiles_109
+    21300220: transparent-bg-tiles_110
+    21300222: transparent-bg-tiles_111
+    21300224: transparent-bg-tiles_112
+    21300226: transparent-bg-tiles_113
+    21300228: transparent-bg-tiles_114
+    21300230: transparent-bg-tiles_115
+    21300232: transparent-bg-tiles_116
+    21300234: transparent-bg-tiles_117
+    21300236: transparent-bg-tiles_118
+    21300238: transparent-bg-tiles_119
+    21300240: transparent-bg-tiles_120
+    21300242: transparent-bg-tiles_121
+    21300244: transparent-bg-tiles_122
+    21300246: transparent-bg-tiles_123
+    21300248: transparent-bg-tiles_124
+    21300250: transparent-bg-tiles_125
+    21300252: transparent-bg-tiles_126
+    21300254: transparent-bg-tiles_127
+    21300256: transparent-bg-tiles_128
+    21300258: transparent-bg-tiles_129
+    21300260: transparent-bg-tiles_130
+    21300262: transparent-bg-tiles_131
+    21300264: transparent-bg-tiles_132
+    21300266: transparent-bg-tiles_133
+    21300268: transparent-bg-tiles_134
+    21300270: transparent-bg-tiles_135
+    21300272: transparent-bg-tiles_136
+    21300274: transparent-bg-tiles_137
+    21300276: transparent-bg-tiles_138
+    21300278: transparent-bg-tiles_139
+    21300280: transparent-bg-tiles_140
+    21300282: transparent-bg-tiles_141
+    21300284: transparent-bg-tiles_142
+    21300286: transparent-bg-tiles_143
+    21300288: transparent-bg-tiles_144
+    21300290: transparent-bg-tiles_145
+    21300292: transparent-bg-tiles_146
+    21300294: transparent-bg-tiles_147
+    21300296: transparent-bg-tiles_148
+    21300298: transparent-bg-tiles_149
+    21300300: transparent-bg-tiles_150
+    21300302: transparent-bg-tiles_151
+    21300304: transparent-bg-tiles_152
+    21300306: transparent-bg-tiles_153
+    21300308: transparent-bg-tiles_154
+    21300310: transparent-bg-tiles_155
+    21300312: transparent-bg-tiles_156
+    21300314: transparent-bg-tiles_157
+    21300316: transparent-bg-tiles_158
+    21300318: transparent-bg-tiles_159
+    21300320: transparent-bg-tiles_160
+    21300322: transparent-bg-tiles_161
+    21300324: transparent-bg-tiles_162
+    21300326: transparent-bg-tiles_163
+    21300328: transparent-bg-tiles_164
+    21300330: transparent-bg-tiles_165
+    21300332: transparent-bg-tiles_166
+    21300334: transparent-bg-tiles_167
+    21300336: transparent-bg-tiles_168
+    21300338: transparent-bg-tiles_169
+    21300340: transparent-bg-tiles_170
+    21300342: transparent-bg-tiles_171
+    21300344: transparent-bg-tiles_172
+    21300346: transparent-bg-tiles_173
+    21300348: transparent-bg-tiles_174
+    21300350: transparent-bg-tiles_175
+    21300352: transparent-bg-tiles_176
+    21300354: transparent-bg-tiles_177
+    21300356: transparent-bg-tiles_178
+    21300358: transparent-bg-tiles_179
+    21300360: transparent-bg-tiles_180
+    21300362: transparent-bg-tiles_181
+    21300364: transparent-bg-tiles_182
+    21300366: transparent-bg-tiles_183
+    21300368: transparent-bg-tiles_184
+    21300370: transparent-bg-tiles_185
+    21300372: transparent-bg-tiles_186
+    21300374: transparent-bg-tiles_187
+    21300376: transparent-bg-tiles_188
+    21300378: transparent-bg-tiles_189
+    21300380: transparent-bg-tiles_190
+    21300382: transparent-bg-tiles_191
+    21300384: transparent-bg-tiles_192
+    21300386: transparent-bg-tiles_193
+    21300388: transparent-bg-tiles_194
+    21300390: transparent-bg-tiles_195
+    21300392: transparent-bg-tiles_196
+    21300394: transparent-bg-tiles_197
+    21300396: transparent-bg-tiles_198
+    21300398: transparent-bg-tiles_199
+    21300400: transparent-bg-tiles_200
+    21300402: transparent-bg-tiles_201
+    21300404: transparent-bg-tiles_202
+    21300406: transparent-bg-tiles_203
+    21300408: transparent-bg-tiles_204
+    21300410: transparent-bg-tiles_205
+    21300412: transparent-bg-tiles_206
+    21300414: transparent-bg-tiles_207
+    21300416: transparent-bg-tiles_208
+    21300418: transparent-bg-tiles_209
+    21300420: transparent-bg-tiles_210
+    21300422: transparent-bg-tiles_211
+    21300424: transparent-bg-tiles_212
+    21300426: transparent-bg-tiles_213
+    21300428: transparent-bg-tiles_214
+    21300430: transparent-bg-tiles_215
+    21300432: transparent-bg-tiles_216
+    21300434: transparent-bg-tiles_217
+    21300436: transparent-bg-tiles_218
+    21300438: transparent-bg-tiles_219
+    21300440: transparent-bg-tiles_220
+    21300442: transparent-bg-tiles_221
+    21300444: transparent-bg-tiles_222
+    21300446: transparent-bg-tiles_223
+    21300448: transparent-bg-tiles_224
+    21300450: transparent-bg-tiles_225
+    21300452: transparent-bg-tiles_226
+    21300454: transparent-bg-tiles_227
+    21300456: transparent-bg-tiles_228
+    21300458: transparent-bg-tiles_229
+    21300460: transparent-bg-tiles_230
+    21300462: transparent-bg-tiles_231
+    21300464: transparent-bg-tiles_232
+    21300466: transparent-bg-tiles_233
+    21300468: transparent-bg-tiles_234
+    21300470: transparent-bg-tiles_235
+    21300472: transparent-bg-tiles_236
+    21300474: transparent-bg-tiles_237
+    21300476: transparent-bg-tiles_238
+    21300478: transparent-bg-tiles_239
+    21300480: transparent-bg-tiles_240
+    21300482: transparent-bg-tiles_241
+    21300484: transparent-bg-tiles_242
+    21300486: transparent-bg-tiles_243
+    21300488: transparent-bg-tiles_244
+    21300490: transparent-bg-tiles_245
+    21300492: transparent-bg-tiles_246
+    21300494: transparent-bg-tiles_247
+    21300496: transparent-bg-tiles_248
+    21300498: transparent-bg-tiles_249
+    21300500: transparent-bg-tiles_250
+    21300502: transparent-bg-tiles_251
+    21300504: transparent-bg-tiles_252
+    21300506: transparent-bg-tiles_253
+    21300508: transparent-bg-tiles_254
+    21300510: transparent-bg-tiles_255
+    21300512: transparent-bg-tiles_256
+    21300514: transparent-bg-tiles_257
+    21300516: transparent-bg-tiles_258
+    21300518: transparent-bg-tiles_259
+    21300520: transparent-bg-tiles_260
+    21300522: transparent-bg-tiles_261
+    21300524: transparent-bg-tiles_262
+    21300526: transparent-bg-tiles_263
+    21300528: transparent-bg-tiles_264
+    21300530: transparent-bg-tiles_265
+    21300532: transparent-bg-tiles_266
+    21300534: transparent-bg-tiles_267
+    21300536: transparent-bg-tiles_268
+    21300538: transparent-bg-tiles_269
+    21300540: transparent-bg-tiles_270
+    21300542: transparent-bg-tiles_271
+    21300544: transparent-bg-tiles_272
+    21300546: transparent-bg-tiles_273
+    21300548: transparent-bg-tiles_274
+    21300550: transparent-bg-tiles_275
+    21300552: transparent-bg-tiles_276
+    21300554: transparent-bg-tiles_277
+    21300556: transparent-bg-tiles_278
+    21300558: transparent-bg-tiles_279
+    21300560: transparent-bg-tiles_280
+    21300562: transparent-bg-tiles_281
+    21300564: transparent-bg-tiles_282
+    21300566: transparent-bg-tiles_283
+    21300568: transparent-bg-tiles_284
+    21300570: transparent-bg-tiles_285
+    21300572: transparent-bg-tiles_286
+    21300574: transparent-bg-tiles_287
+    21300576: transparent-bg-tiles_288
+    21300578: transparent-bg-tiles_289
+    21300580: transparent-bg-tiles_290
+    21300582: transparent-bg-tiles_291
+    21300584: transparent-bg-tiles_292
+    21300586: transparent-bg-tiles_293
+    21300588: transparent-bg-tiles_294
+    21300590: transparent-bg-tiles_295
+    21300592: transparent-bg-tiles_296
+    21300594: transparent-bg-tiles_297
+    21300596: transparent-bg-tiles_298
+    21300598: transparent-bg-tiles_299
+    21300600: transparent-bg-tiles_300
+    21300602: transparent-bg-tiles_301
+    21300604: transparent-bg-tiles_302
+    21300606: transparent-bg-tiles_303
+    21300608: transparent-bg-tiles_304
+    21300610: transparent-bg-tiles_305
+    21300612: transparent-bg-tiles_306
+    21300614: transparent-bg-tiles_307
+    21300616: transparent-bg-tiles_308
+    21300618: transparent-bg-tiles_309
+    21300620: transparent-bg-tiles_310
+    21300622: transparent-bg-tiles_311
+    21300624: transparent-bg-tiles_312
+    21300626: transparent-bg-tiles_313
+    21300628: transparent-bg-tiles_314
+    21300630: transparent-bg-tiles_315
+    21300632: transparent-bg-tiles_316
+    21300634: transparent-bg-tiles_317
+    21300636: transparent-bg-tiles_318
+    21300638: transparent-bg-tiles_319
+    21300640: transparent-bg-tiles_320
+    21300642: transparent-bg-tiles_321
+    21300644: transparent-bg-tiles_322
+    21300646: transparent-bg-tiles_323
+    21300648: transparent-bg-tiles_324
+    21300650: transparent-bg-tiles_325
+    21300652: transparent-bg-tiles_326
+    21300654: transparent-bg-tiles_327
+    21300656: transparent-bg-tiles_328
+    21300658: transparent-bg-tiles_329
+    21300660: transparent-bg-tiles_330
+    21300662: transparent-bg-tiles_331
+    21300664: transparent-bg-tiles_332
+    21300666: transparent-bg-tiles_333
+    21300668: transparent-bg-tiles_334
+    21300670: transparent-bg-tiles_335
+    21300672: transparent-bg-tiles_336
+    21300674: transparent-bg-tiles_337
+    21300676: transparent-bg-tiles_338
+    21300678: transparent-bg-tiles_339
+    21300680: transparent-bg-tiles_340
+    21300682: transparent-bg-tiles_341
+    21300684: transparent-bg-tiles_342
+    21300686: transparent-bg-tiles_343
+    21300688: transparent-bg-tiles_344
+    21300690: transparent-bg-tiles_345
+    21300692: transparent-bg-tiles_346
+    21300694: transparent-bg-tiles_347
+    21300696: transparent-bg-tiles_348
+    21300698: transparent-bg-tiles_349
+    21300700: transparent-bg-tiles_350
+    21300702: transparent-bg-tiles_351
+    21300704: transparent-bg-tiles_352
+    21300706: transparent-bg-tiles_353
+    21300708: transparent-bg-tiles_354
+    21300710: transparent-bg-tiles_355
+    21300712: transparent-bg-tiles_356
+    21300714: transparent-bg-tiles_357
+    21300716: transparent-bg-tiles_358
+    21300718: transparent-bg-tiles_359
+    21300720: transparent-bg-tiles_360
+    21300722: transparent-bg-tiles_361
+    21300724: transparent-bg-tiles_362
+    21300726: transparent-bg-tiles_363
+    21300728: transparent-bg-tiles_364
+    21300730: transparent-bg-tiles_365
+    21300732: transparent-bg-tiles_366
+    21300734: transparent-bg-tiles_367
+    21300736: transparent-bg-tiles_368
+    21300738: transparent-bg-tiles_369
+    21300740: transparent-bg-tiles_370
+    21300742: transparent-bg-tiles_371
+    21300744: transparent-bg-tiles_372
+    21300746: transparent-bg-tiles_373
+    21300748: transparent-bg-tiles_374
+    21300750: transparent-bg-tiles_375
+    21300752: transparent-bg-tiles_376
+    21300754: transparent-bg-tiles_377
+    21300756: transparent-bg-tiles_378
+    21300758: transparent-bg-tiles_379
+    21300760: transparent-bg-tiles_380
+    21300762: transparent-bg-tiles_381
+    21300764: transparent-bg-tiles_382
+    21300766: transparent-bg-tiles_383
+    21300768: transparent-bg-tiles_384
+    21300770: transparent-bg-tiles_385
+    21300772: transparent-bg-tiles_386
+    21300774: transparent-bg-tiles_387
+    21300776: transparent-bg-tiles_388
+    21300778: transparent-bg-tiles_389
+    21300780: transparent-bg-tiles_390
+    21300782: transparent-bg-tiles_391
+    21300784: transparent-bg-tiles_392
+    21300786: transparent-bg-tiles_393
+    21300788: transparent-bg-tiles_394
+    21300790: transparent-bg-tiles_395
+    21300792: transparent-bg-tiles_2
+    21300794: barrel
+    21300796: road1
+    21300798: road2
+    21300800: road3
+    21300802: road4
+    21300804: road5
+    21300806: road6
+    21300808: road7
+    21300810: water1
+    21300812: water2
+    21300814: water3
+    21300816: water4
+    21300818: water5
+    21300820: water6
+    21300822: water7
+    21300824: waterPond0
+    21300826: waterPond1
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 25
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: transparent-bg-tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: transparent-bg-tiles_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 169
+        width: 54
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inn
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 168
+        width: 96
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vegetable
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: garden
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 148
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rock
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 145
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: transparent-bg-tiles_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: road0
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 112
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.4676981, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: transparent-bg-tiles_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: transparent-bg-tiles_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 92
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: transparent-bg-tiles_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 12
+        width: 94
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: water0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: transparent-bg-tiles_12
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 126
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: transparent-bg-tiles_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chest
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 146
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: barrel
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 144
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: road1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: road2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: road3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: road4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: road5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: road6
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: road7
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: water1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: water2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: water3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: water4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: water5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: water6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: water7
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: waterPond0
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: waterPond1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

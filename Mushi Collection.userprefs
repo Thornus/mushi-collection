@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\player\playerScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\player\playerScript.cs" Line="293" Column="1" />
+      <File FileName="Assets\Scripts\login.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\handlePanelsNavigation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\sparkles\sparklesItem.cs" Line="10" Column="12" />
+      <File FileName="Assets\Scripts\items\Item.cs" Line="19" Column="4" />
+      <File FileName="Assets\Scripts\items\ItemsContainer.cs" Line="18" Column="46" />
+      <File FileName="Assets\Scripts\doorManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Public\Documents\Unity Projects\Mushi Collection\Assets\Scripts\player\playerScript.cs" line="178" column="1" />
+      <Breakpoint file="C:\Users\Public\Documents\Unity Projects\Mushi Collection\Assets\Scripts\player\playerScript.cs" line="180" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,2550 @@
+fileFormatVersion: 2
+guid: a0c56cc208652ae42b0e494c496667d8
+timeCreated: 1489695340
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: idleDownwardSpriteSheet_0
+    21300002: idleDownwardSpriteSheet_1
+    21300004: idleDownwardSpriteSheet_2
+    21300006: idleDownwardSpriteSheet_3
+    21300008: idleDownwardSpriteSheet_4
+    21300010: idleDownwardSpriteSheet_5
+    21300012: idleDownwardSpriteSheet_6
+    21300014: idleDownwardSpriteSheet_7
+    21300016: idleDownwardSpriteSheet_8
+    21300018: idleDownwardSpriteSheet_9
+    21300020: idleDownwardSpriteSheet_10
+    21300022: idleDownwardSpriteSheet_11
+    21300024: idleDownwardSpriteSheet_12
+    21300026: idleDownwardSpriteSheet_13
+    21300028: idleDownwardSpriteSheet_14
+    21300030: idleDownwardSpriteSheet_15
+    21300032: idleDownwardSpriteSheet_16
+    21300034: idleDownwardSpriteSheet_17
+    21300036: idleDownwardSpriteSheet_18
+    21300038: idleDownwardSpriteSheet_19
+    21300040: idleDownwardSpriteSheet_20
+    21300042: idleDownwardSpriteSheet_21
+    21300044: idleDownwardSpriteSheet_22
+    21300046: idleDownwardSpriteSheet_23
+    21300048: idleDownwardSpriteSheet_24
+    21300050: idleDownwardSpriteSheet_25
+    21300052: idleDownwardSpriteSheet_26
+    21300054: idleDownwardSpriteSheet_27
+    21300056: idleDownwardSpriteSheet_28
+    21300058: idleDownwardSpriteSheet_29
+    21300060: idleDownwardSpriteSheet_30
+    21300062: idleDownwardSpriteSheet_31
+    21300064: idleDownwardSpriteSheet_32
+    21300066: idleDownwardSpriteSheet_33
+    21300068: idleDownwardSpriteSheet_34
+    21300070: idleDownwardSpriteSheet_35
+    21300072: idleDownwardSpriteSheet_36
+    21300074: idleDownwardSpriteSheet_37
+    21300076: idleDownwardSpriteSheet_38
+    21300078: idleDownwardSpriteSheet_39
+    21300080: idleDownwardSpriteSheet_40
+    21300082: idleDownwardSpriteSheet_41
+    21300084: idleDownwardSpriteSheet_42
+    21300086: idleDownwardSpriteSheet_43
+    21300088: idleDownwardSpriteSheet_44
+    21300090: idleDownwardSpriteSheet_45
+    21300092: idleDownwardSpriteSheet_46
+    21300094: idleDownwardSpriteSheet_47
+    21300096: idleDownwardSpriteSheet_48
+    21300098: idleDownwardSpriteSheet_49
+    21300100: idleDownwardSpriteSheet_50
+    21300102: idleDownwardSpriteSheet_51
+    21300104: idleDownwardSpriteSheet_52
+    21300106: idleDownwardSpriteSheet_53
+    21300108: idleDownwardSpriteSheet_54
+    21300110: idleDownwardSpriteSheet_55
+    21300112: idleDownwardSpriteSheet_56
+    21300114: idleDownwardSpriteSheet_57
+    21300116: idleDownwardSpriteSheet_58
+    21300118: idleDownwardSpriteSheet_59
+    21300120: idleDownwardSpriteSheet_60
+    21300122: idleDownwardSpriteSheet_61
+    21300124: idleDownwardSpriteSheet_62
+    21300126: idleDownwardSpriteSheet_63
+    21300128: idleDownwardSpriteSheet_64
+    21300130: idleDownwardSpriteSheet_65
+    21300132: idleDownwardSpriteSheet_66
+    21300134: idleDownwardSpriteSheet_67
+    21300136: idleDownwardSpriteSheet_68
+    21300138: idleDownwardSpriteSheet_69
+    21300140: idleDownwardSpriteSheet_70
+    21300142: idleDownwardSpriteSheet_71
+    21300144: idleDownwardSpriteSheet_72
+    21300146: idleDownwardSpriteSheet_73
+    21300148: idleDownwardSpriteSheet_74
+    21300150: idleDownwardSpriteSheet_75
+    21300152: idleDownwardSpriteSheet_76
+    21300154: idleDownwardSpriteSheet_77
+    21300156: idleDownwardSpriteSheet_78
+    21300158: idleDownwardSpriteSheet_79
+    21300160: idleDownwardSpriteSheet_80
+    21300162: idleDownwardSpriteSheet_81
+    21300164: idleDownwardSpriteSheet_82
+    21300166: idleDownwardSpriteSheet_83
+    21300168: idleDownwardSpriteSheet_84
+    21300170: idleDownwardSpriteSheet_85
+    21300172: idleDownwardSpriteSheet_86
+    21300174: idleDownwardSpriteSheet_87
+    21300176: idleDownwardSpriteSheet_88
+    21300178: idleDownwardSpriteSheet_89
+    21300180: idleDownwardSpriteSheet_90
+    21300182: idleDownwardSpriteSheet_91
+    21300184: idleDownwardSpriteSheet_92
+    21300186: idleDownwardSpriteSheet_93
+    21300188: idleDownwardSpriteSheet_94
+    21300190: idleDownwardSpriteSheet_95
+    21300192: idleDownwardSpriteSheet_96
+    21300194: idleDownwardSpriteSheet_97
+    21300196: idleDownwardSpriteSheet_98
+    21300198: idleDownwardSpriteSheet_99
+    21300200: idleDownwardSpriteSheet_100
+    21300202: idleDownwardSpriteSheet_101
+    21300204: idleDownwardSpriteSheet_102
+    21300206: idleDownwardSpriteSheet_103
+    21300208: idleDownwardSpriteSheet_104
+    21300210: idleDownwardSpriteSheet_105
+    21300212: idleDownwardSpriteSheet_106
+    21300214: idleDownwardSpriteSheet_107
+    21300216: idleDownwardSpriteSheet_108
+    21300218: idleDownwardSpriteSheet_109
+    21300220: idleDownwardSpriteSheet_110
+    21300222: idleDownwardSpriteSheet_111
+    21300224: idleDownwardSpriteSheet_112
+    21300226: idleDownwardSpriteSheet_113
+    21300228: idleDownwardSpriteSheet_114
+    21300230: idleDownwardSpriteSheet_115
+    21300232: idleDownwardSpriteSheet_116
+    21300234: idleDownwardSpriteSheet_117
+    21300236: idleDownwardSpriteSheet_118
+    21300238: idleDownwardSpriteSheet_119
+    21300240: idleDownwardSpriteSheet_120
+    21300242: idleDownwardSpriteSheet_121
+    21300244: idleDownwardSpriteSheet_122
+    21300246: idleDownwardSpriteSheet_123
+    21300248: idleDownwardSpriteSheet_124
+    21300250: idleDownwardSpriteSheet_125
+    21300252: idleDownwardSpriteSheet_126
+    21300254: idleDownwardSpriteSheet_127
+    21300256: idleDownwardSpriteSheet_128
+    21300258: idleDownwardSpriteSheet_129
+    21300260: idleDownwardSpriteSheet_130
+    21300262: idleDownwardSpriteSheet_131
+    21300264: idleDownwardSpriteSheet_132
+    21300266: idleDownwardSpriteSheet_133
+    21300268: idleDownwardSpriteSheet_134
+    21300270: idleDownwardSpriteSheet_135
+    21300272: idleDownwardSpriteSheet_136
+    21300274: idleDownwardSpriteSheet_137
+    21300276: idleDownwardSpriteSheet_138
+    21300278: idleDownwardSpriteSheet_139
+    21300280: idleDownwardSpriteSheet_140
+    21300282: idleDownwardSpriteSheet_141
+    21300284: idleDownwardSpriteSheet_142
+    21300286: idleDownwardSpriteSheet_143
+    21300288: idleDownwardSpriteSheet_144
+    21300290: idleDownwardSpriteSheet_145
+    21300292: idleDownwardSpriteSheet_146
+    21300294: idleDownwardSpriteSheet_147
+    21300296: idleDownwardSpriteSheet_148
+    21300298: idleDownwardSpriteSheet_149
+    21300300: idleDownwardSpriteSheet_150
+    21300302: idleDownwardSpriteSheet_151
+    21300304: idleDownwardSpriteSheet_152
+    21300306: idleDownwardSpriteSheet_153
+    21300308: idleDownwardSpriteSheet_154
+    21300310: idleDownwardSpriteSheet_155
+    21300312: idleDownwardSpriteSheet_156
+    21300314: idleDownwardSpriteSheet_157
+    21300316: idleDownwardSpriteSheet_158
+    21300318: idleDownwardSpriteSheet_159
+    21300320: idleDownwardSpriteSheet_160
+    21300322: idleDownwardSpriteSheet_161
+    21300324: idleDownwardSpriteSheet_162
+    21300326: idleDownwardSpriteSheet_163
+    21300328: idleDownwardSpriteSheet_164
+    21300330: idleDownwardSpriteSheet_165
+    21300332: idleDownwardSpriteSheet_166
+    21300334: idleDownwardSpriteSheet_167
+    21300336: idleDownwardSpriteSheet_168
+    21300338: idleDownwardSpriteSheet_169
+    21300340: idleDownwardSpriteSheet_170
+    21300342: idleDownwardSpriteSheet_171
+    21300344: idleDownwardSpriteSheet_172
+    21300346: idleDownwardSpriteSheet_173
+    21300348: idleDownwardSpriteSheet_174
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 150
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1920
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1920
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1920
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1920
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1920
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1920
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1920
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1920
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1920
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1920
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1792
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1792
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1792
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1792
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1792
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1792
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1792
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1792
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1792
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1792
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1664
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1664
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1664
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1664
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1664
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1664
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1664
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1664
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1664
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1664
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1536
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1536
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1536
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1536
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1536
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1536
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1536
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1536
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1536
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1536
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1408
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1408
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1408
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1408
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1408
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1408
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1408
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1408
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1408
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1408
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1280
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1280
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1280
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1280
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1280
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1280
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1280
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1280
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1280
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1280
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1152
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1152
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1152
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1152
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1152
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1152
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1152
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1152
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1152
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1152
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1024
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1024
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1024
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1024
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1024
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1024
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1024
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1024
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1024
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 896
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 896
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 896
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 896
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 896
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 896
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 896
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 896
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 768
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 768
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 768
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 768
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 768
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 768
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 768
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 768
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 640
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 640
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 640
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 640
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 640
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 640
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 640
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 640
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_122
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 512
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_123
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 512
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_124
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 512
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_125
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_126
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 512
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_127
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 512
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_128
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 512
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_129
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_130
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 512
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_131
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 512
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_133
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 384
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_134
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_135
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_136
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_137
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_138
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_139
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 384
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_140
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_141
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 384
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_142
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 384
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_144
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 256
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_145
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_146
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 256
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_147
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_148
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_149
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 256
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_150
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 256
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_151
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_152
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 256
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_153
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 256
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_155
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_156
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_157
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 128
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_159
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_160
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 128
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_161
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 128
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_162
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_163
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 128
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_164
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 128
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_166
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_168
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_169
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_170
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_171
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_172
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_173
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idleDownwardSpriteSheet_174
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

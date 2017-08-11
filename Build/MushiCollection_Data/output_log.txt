@@ -1,0 +1,95 @@
+Mono path[0] = 'C:/Users/Public/Documents/Unity Projects/Mushi Collection/Build/MushiCollection_Data/Managed'
+Mono path[1] = 'C:/Users/Public/Documents/Unity Projects/Mushi Collection/Build/MushiCollection_Data/Mono'
+Mono config path = 'C:/Users/Public/Documents/Unity Projects/Mushi Collection/Build/MushiCollection_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Public/Documents/Unity Projects/Mushi Collection/Build/MushiCollection_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55171
+Multi-casting "[IP] 25.110.182.35 [Port] 55171 [Flags] 3 [Guid] 4117288782 [EditorId] 366417384 [Version] 1048832 [Id] WindowsPlayer(Luca-PC) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [0.0.0.0:55171]...
+PlayerConnection accepted from [25.110.182.35] handle:0x248
+Started listening to [0.0.0.0:55171]
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56782
+PlayerConnection already initialized - listening to [0.0.0.0:55171]
+Player data archive not found at `C:/Users/Public/Documents/Unity Projects/Mushi Collection/Build/MushiCollection_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 640 (ID=0xfc1)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+    Driver:   21.21.13.7878
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Mushi Collection\Build\MushiCollection_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Mushi Collection\Build\MushiCollection_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Mushi Collection\Build\MushiCollection_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Mushi Collection\Build\MushiCollection_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Mushi Collection\Build\MushiCollection_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Mushi Collection\Build\MushiCollection_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Mushi Collection\Build\MushiCollection_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Mushi Collection\Build\MushiCollection_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.028 seconds
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Mushi Collection\Build\MushiCollection_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Mushi Collection\Build\MushiCollection_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.272635 ms
+none
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+<getItemsFromDB>c__Iterator2:MoveNext() (at C:\Users\Public\Documents\Unity Projects\Mushi Collection\Assets\Scripts\player\playerScript.cs:287)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/Public/Documents/Unity Projects/Mushi Collection/Assets/Scripts/player/playerScript.cs Line: 287)
+
+You got 1 Green Scarab!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+playerScript:OnTriggerStay2D(Collider2D) (at C:\Users\Public\Documents\Unity Projects\Mushi Collection\Assets\Scripts\player\playerScript.cs:155)
+ 
+(Filename: C:/Users/Public/Documents/Unity Projects/Mushi Collection/Assets/Scripts/player/playerScript.cs Line: 155)
+
+You got 1 Yellow Scarab!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+playerScript:OnTriggerStay2D(Collider2D) (at C:\Users\Public\Documents\Unity Projects\Mushi Collection\Assets\Scripts\player\playerScript.cs:155)
+ 
+(Filename: C:/Users/Public/Documents/Unity Projects/Mushi Collection/Assets/Scripts/player/playerScript.cs Line: 155)
+
+SAVING DATA...
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+<realQuit>c__Iterator3:MoveNext() (at C:\Users\Public\Documents\Unity Projects\Mushi Collection\Assets\Scripts\player\playerScript.cs:356)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\MonoBehaviourBindings.gen.cs:62)
+playerScript:OnApplicationQuit() (at C:\Users\Public\Documents\Unity Projects\Mushi Collection\Assets\Scripts\player\playerScript.cs:347)
+ 
+(Filename: C:/Users/Public/Documents/Unity Projects/Mushi Collection/Assets/Scripts/player/playerScript.cs Line: 356)
+
+INSERT INTO items (id, name, description, typeId, amount, userId) VALUES (NULL, ?, ?, ?, ?, ?), (NULL, ?, ?, ?, ?, ?)UPDATE items JOIN users ON (users.id = items.userId) SET amount = CASE name WHEN 'Green Scarab' THEN 1 WHEN 'Yellow Scarab' THEN 1 END WHERE name IN ('Green Scarab' ,'Yellow Scarab') AND users.id = 192DATABASE ERROR: couldn't add item ||| Cannot add or update a child row: a foreign key constraint fails (`id1086960_mushicollectiondb`.`items`, CONSTRAINT `items_ibfk_2` FOREIGN KEY (`typeId`) REFERENCES `itemTypes` (`id`))Item(s) amount modified!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+<addItemsToDB>c__Iterator0:MoveNext() (at C:\Users\Public\Documents\Unity Projects\Mushi Collection\Assets\Scripts\player\playerScript.cs:225)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/Public/Documents/Unity Projects/Mushi Collection/Assets/Scripts/player/playerScript.cs Line: 225)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1528 -> priority: 1 
+Waiting for finish

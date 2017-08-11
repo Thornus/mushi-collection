@@ -1,0 +1,688 @@
+fileFormatVersion: 2
+guid: 5ff6f41c18c4a5c4b965947cc4bc2a1e
+timeCreated: 1489602657
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: loadingSpriteSheet_0
+    21300002: loadingSpriteSheet_1
+    21300004: loadingSpriteSheet_2
+    21300006: loadingSpriteSheet_3
+    21300008: loadingSpriteSheet_4
+    21300010: loadingSpriteSheet_5
+    21300012: loadingSpriteSheet_6
+    21300014: loadingSpriteSheet_7
+    21300016: loadingSpriteSheet_8
+    21300018: loadingSpriteSheet_9
+    21300020: loadingSpriteSheet_10
+    21300022: loadingSpriteSheet_11
+    21300024: loadingSpriteSheet_12
+    21300026: loadingSpriteSheet_13
+    21300028: loadingSpriteSheet_14
+    21300030: loadingSpriteSheet_15
+    21300032: loadingSpriteSheet_16
+    21300034: loadingSpriteSheet_17
+    21300036: loadingSpriteSheet_18
+    21300038: loadingSpriteSheet_19
+    21300040: loadingSpriteSheet_20
+    21300042: loadingSpriteSheet_21
+    21300044: loadingSpriteSheet_22
+    21300046: loadingSpriteSheet_23
+    21300048: loadingSpriteSheet_24
+    21300050: loadingSpriteSheet_25
+    21300052: loadingSpriteSheet_26
+    21300054: loadingSpriteSheet_27
+    21300056: loadingSpriteSheet_28
+    21300058: loadingSpriteSheet_29
+    21300060: loadingSpriteSheet_30
+    21300062: loadingSpriteSheet_31
+    21300064: loadingSpriteSheet_32
+    21300066: loadingSpriteSheet_33
+    21300068: loadingSpriteSheet_34
+    21300070: loadingSpriteSheet_35
+    21300072: loadingSpriteSheet_36
+    21300074: loadingSpriteSheet_37
+    21300076: loadingSpriteSheet_38
+    21300078: loadingSpriteSheet_39
+    21300080: loadingSpriteSheet_40
+    21300082: loadingSpriteSheet_41
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: loadingSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1006.6667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1006.6667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1006.6667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1006.6667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1006.6667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1006.6667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1006.6667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 805.6667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 805.6667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 805.6667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 805.6667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 805.6667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 805.6667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 805.6667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 604.6667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 604.6667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 604.6667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 604.6667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 604.6667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 604.6667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 604.6667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 403.6667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 403.6667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 403.6667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 403.6667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 403.6667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 403.6667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 403.6667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202.66667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 202.66667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 202.66667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 202.66667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 202.66667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 202.66667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 202.66667
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.6666718
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1.6666718
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1.6666718
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1.6666718
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1.6666718
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1.6666718
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: loadingSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1.6666718
+        width: 200
+        height: 201.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

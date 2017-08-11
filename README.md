@@ -9,7 +9,10 @@ The answer is simple: C# files are local and, if contained code that accesses th
 
 Instead, C# files send an HTTP request to the URL of the specific PHP file, so that it can handle the connection to the database and access data opportunely.
 
+## Where can I find the code?
+The C# files can be found in [mushi-collection/Assets/Scripts](https://github.com/Thornus/mushi-collection/tree/master/Assets/Scripts).
 The PHP files can be found in [mushi-collection/PHP](https://github.com/Thornus/mushi-collection/tree/master/PHP).
+
 ## Instructions to build and play the game
 Import the project in Unity and build. The game has controls set for computers only, so it's best to choose PC or Mac as platform.
 

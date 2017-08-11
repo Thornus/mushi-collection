@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class login : MonoBehaviour {
-	string URL = "https://testthehost.000webhostapp.com/php/login.php"; //change for your URL
+	string URL = "url"; //change with your URL
 
 	public InputField usernameIF, passwordIF, regUsernameIF, regPasswordIF, regEmailIF;
 	public GameObject responseGameObject;

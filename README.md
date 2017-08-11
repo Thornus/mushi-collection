@@ -11,6 +11,7 @@ Instead, C# files send an HTTP request to the URL of the specific PHP file, so t
 
 ## Where can I find the code?
 The C# files can be found in [mushi-collection/Assets/Scripts](https://github.com/Thornus/mushi-collection/tree/master/Assets/Scripts).
+
 The PHP files can be found in [mushi-collection/PHP](https://github.com/Thornus/mushi-collection/tree/master/PHP).
 
 ## Instructions to build and play the game

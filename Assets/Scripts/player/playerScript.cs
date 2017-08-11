@@ -17,8 +17,6 @@ public class playerScript : MonoBehaviour {
 	Animator anim;
 	SpriteRenderer spriteRenderer;
 
-	//public GameObject orangeScarabPrefab, inventorySlot0; //<---- DELETE
-
 	public int rowsN, columnsN; //default number of rows and columns in inventory
 	Transform[,] inventorySlotsTr; //stores the transforms of each inventory slot. used to instantiate GOs in and to check if a slot is empty or not
 	Vector2 emptySlotCoords = new Vector2(0, 0); //stores the coords of the first empty slot available in the inventory
@@ -211,7 +209,7 @@ public class playerScript : MonoBehaviour {
 
 		form.AddField("username".ToString(), PlayerPrefs.GetString("username"));
 
-		WWW w = new WWW("https://testthehost.000webhostapp.com/php/addItems.php", form);
+		WWW w = new WWW("YOUR_URL/addItems.php", form); //modify with your URL pointing to addItems.php
 
 		StartCoroutine(showLoading(w));
 		yield return w; //wait for the form to check the PHP file, so our game doesn't just hang
@@ -273,7 +271,7 @@ public class playerScript : MonoBehaviour {
 		WWWForm form = new WWWForm(); //here you create a new form connection
 		form.AddField("username", username);
 
-		WWW w = new WWW("https://testthehost.000webhostapp.com/php/getItems.php", form);
+		WWW w = new WWW("YOUR_URL/getItems.php", form); //modify with your URL pointing to getItems.php
 
 		StartCoroutine(showLoading(w));
 		yield return w; //wait for the form to check the PHP file, so our game doesn't just hang

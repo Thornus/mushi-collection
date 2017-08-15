@@ -16,6 +16,7 @@ The PHP files can be found in [mushi-collection/PHP](https://github.com/Thornus/
 
 ## Instructions to build and play the game
 1. Upload the PHP files to a server (or use localhost) and modify the URLs accordingly in the C# files that make the HTTP requests.
-2. Import the project in Unity and build. The game has controls set for computers only, so it's best to choose PC or Mac as platform.
+2. Create a database accordingly with the MySQL queries that are in the PHP files (or modify the queries to suit you best).
+3. Import the project in Unity and build. The game has controls set for computers only, so it's best to choose PC or Mac as platform.
 
 An already built version of the game is available zipped in [mushi-collection/Build](https://github.com/Thornus/mushi-collection/tree/master/Build).

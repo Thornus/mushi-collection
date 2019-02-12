@@ -5,7 +5,7 @@ Mushi Collection is a demo game, meaning it has been made for demonstrational pu
 Mushi Collection is made with [Unity](https://en.wikipedia.org/wiki/Unity_(game_engine)) and combines C# and PHP to interact with a remote database and perform actions such as login, registration and items' data retrieval.
 
 ## Why use PHP to interact with the database?
-The answer is simple: C# files are local and, if contained code that accesses the database directly, would give players the possibility of cheating by modifying the files.
+The answer is simple: C# files are local and if they contained code that accesses the database directly, players would have the possibility of cheating by modifying the files.
 
 Instead, C# files send an HTTP request to the URL of the specific PHP file, so that it can handle the connection to the database and access data opportunely.
 
